@@ -29,3 +29,9 @@ Taller desarrollado por el **Google Developer Student Club de la Universidad de 
 - El cine
 - Leer
 - Salir a correr
+
+*Diana Manzo
+-me gusta leer
+-me gustan los gatos
+-me gusta escuchar música de taylor swift
+-me gustan la música instrumental
